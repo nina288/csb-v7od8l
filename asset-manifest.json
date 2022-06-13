@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://nina288.github.io/csb-v7od8l/static/js/main.eb5ff347.chunk.js",
+    "main.js.map": "https://nina288.github.io/csb-v7od8l/static/js/main.eb5ff347.chunk.js.map",
+    "runtime-main.js": "https://nina288.github.io/csb-v7od8l/static/js/runtime-main.d5827d8d.js",
+    "runtime-main.js.map": "https://nina288.github.io/csb-v7od8l/static/js/runtime-main.d5827d8d.js.map",
+    "static/js/2.188bb57c.chunk.js": "https://nina288.github.io/csb-v7od8l/static/js/2.188bb57c.chunk.js",
+    "static/js/2.188bb57c.chunk.js.map": "https://nina288.github.io/csb-v7od8l/static/js/2.188bb57c.chunk.js.map",
+    "index.html": "https://nina288.github.io/csb-v7od8l/index.html",
+    "static/js/2.188bb57c.chunk.js.LICENSE.txt": "https://nina288.github.io/csb-v7od8l/static/js/2.188bb57c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5827d8d.js",
+    "static/js/2.188bb57c.chunk.js",
+    "static/js/main.eb5ff347.chunk.js"
+  ]
+}
